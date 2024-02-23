@@ -5,3 +5,6 @@
 .fond_droit{
     background-color:  #eedddd;
 }
+.list-group-item, .letter, .profile {
+    background-color: beige;
+}
